@@ -1,0 +1,8 @@
+.user > ul > li {
+  list-style: none;
+  text-align: left;
+  width: 60%;
+  margin-left: 40px;
+  border: solid 1px orange;
+  background-color: #ffa50026;
+}
